@@ -1,0 +1,14 @@
+.title{
+text-align: center;
+font-weight: bold;
+color: white;
+}
+button{
+background-color: aliceblue;
+border: 2px solid blue;
+margin: 30px;
+margin-bottom: 10px;
+text-align: center;}
+*{
+background-color: rgb(140, 188, 234);
+}
